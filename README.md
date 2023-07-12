@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img src="![image](https://github.com/shubhamsingh2002/shubhamsingh2002/assets/122339937/a15f772e-9aa2-416a-9030-ba3012ddf3d5)
-" alt="Girl in a jacket" width="500" height="600">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsingh2002&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsingh2002" /> </p>
 
 - 🌱 I’m currently learning **Advance Diploma in IT, Networking & cloud computing**
